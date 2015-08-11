@@ -1,0 +1,12 @@
+#ram status
+free -m
+#shutdown
+sudo shutdown -h now
+#reboot
+sudo shutdown -r now
+#storage
+df -h
+#memory usage
+top
+#rename
+mv [from] [to]
