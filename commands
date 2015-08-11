@@ -8,5 +8,13 @@ sudo shutdown -r now
 df -h
 #memory usage
 top
-#rename directory
+#rename directory/move directory/rename file/move file
 mv [from] [to]
+#check directory size
+du -h -c [dir]
+#make file
+cat > [filename]
+#c compile
+gcc [filename.c] [options] [-lwiringPi]
+#c++ compile
+g++ [filename]
