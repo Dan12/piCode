@@ -8,5 +8,5 @@ sudo shutdown -r now
 df -h
 #memory usage
 top
-#rename
+#rename directory
 mv [from] [to]
